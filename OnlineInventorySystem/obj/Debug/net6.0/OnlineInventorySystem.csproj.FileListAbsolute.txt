@@ -1,0 +1,15 @@
+C:\Users\sushma.devadiga\Documents\C#\Assignment-3\OnlineInventorySystem\bin\Debug\net6.0\OnlineInventorySystem.exe
+C:\Users\sushma.devadiga\Documents\C#\Assignment-3\OnlineInventorySystem\bin\Debug\net6.0\OnlineInventorySystem.deps.json
+C:\Users\sushma.devadiga\Documents\C#\Assignment-3\OnlineInventorySystem\bin\Debug\net6.0\OnlineInventorySystem.runtimeconfig.json
+C:\Users\sushma.devadiga\Documents\C#\Assignment-3\OnlineInventorySystem\bin\Debug\net6.0\OnlineInventorySystem.dll
+C:\Users\sushma.devadiga\Documents\C#\Assignment-3\OnlineInventorySystem\bin\Debug\net6.0\OnlineInventorySystem.pdb
+C:\Users\sushma.devadiga\Documents\C#\Assignment-3\OnlineInventorySystem\obj\Debug\net6.0\OnlineInventorySystem.csproj.AssemblyReference.cache
+C:\Users\sushma.devadiga\Documents\C#\Assignment-3\OnlineInventorySystem\obj\Debug\net6.0\OnlineInventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sushma.devadiga\Documents\C#\Assignment-3\OnlineInventorySystem\obj\Debug\net6.0\OnlineInventorySystem.AssemblyInfoInputs.cache
+C:\Users\sushma.devadiga\Documents\C#\Assignment-3\OnlineInventorySystem\obj\Debug\net6.0\OnlineInventorySystem.AssemblyInfo.cs
+C:\Users\sushma.devadiga\Documents\C#\Assignment-3\OnlineInventorySystem\obj\Debug\net6.0\OnlineInventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\sushma.devadiga\Documents\C#\Assignment-3\OnlineInventorySystem\obj\Debug\net6.0\OnlineInventorySystem.dll
+C:\Users\sushma.devadiga\Documents\C#\Assignment-3\OnlineInventorySystem\obj\Debug\net6.0\refint\OnlineInventorySystem.dll
+C:\Users\sushma.devadiga\Documents\C#\Assignment-3\OnlineInventorySystem\obj\Debug\net6.0\OnlineInventorySystem.pdb
+C:\Users\sushma.devadiga\Documents\C#\Assignment-3\OnlineInventorySystem\obj\Debug\net6.0\OnlineInventorySystem.genruntimeconfig.cache
+C:\Users\sushma.devadiga\Documents\C#\Assignment-3\OnlineInventorySystem\obj\Debug\net6.0\ref\OnlineInventorySystem.dll

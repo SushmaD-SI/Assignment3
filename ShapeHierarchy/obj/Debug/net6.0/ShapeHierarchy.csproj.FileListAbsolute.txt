@@ -1,0 +1,15 @@
+C:\Users\sushma.devadiga\Documents\C#\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.csproj.AssemblyReference.cache
+C:\Users\sushma.devadiga\Documents\C#\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sushma.devadiga\Documents\C#\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.AssemblyInfoInputs.cache
+C:\Users\sushma.devadiga\Documents\C#\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.AssemblyInfo.cs
+C:\Users\sushma.devadiga\Documents\C#\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\sushma.devadiga\Documents\C#\ShapeHierarchy\bin\Debug\net6.0\ShapeHierarchy.exe
+C:\Users\sushma.devadiga\Documents\C#\ShapeHierarchy\bin\Debug\net6.0\ShapeHierarchy.deps.json
+C:\Users\sushma.devadiga\Documents\C#\ShapeHierarchy\bin\Debug\net6.0\ShapeHierarchy.runtimeconfig.json
+C:\Users\sushma.devadiga\Documents\C#\ShapeHierarchy\bin\Debug\net6.0\ShapeHierarchy.dll
+C:\Users\sushma.devadiga\Documents\C#\ShapeHierarchy\bin\Debug\net6.0\ShapeHierarchy.pdb
+C:\Users\sushma.devadiga\Documents\C#\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.dll
+C:\Users\sushma.devadiga\Documents\C#\ShapeHierarchy\obj\Debug\net6.0\refint\ShapeHierarchy.dll
+C:\Users\sushma.devadiga\Documents\C#\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.pdb
+C:\Users\sushma.devadiga\Documents\C#\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.genruntimeconfig.cache
+C:\Users\sushma.devadiga\Documents\C#\ShapeHierarchy\obj\Debug\net6.0\ref\ShapeHierarchy.dll
